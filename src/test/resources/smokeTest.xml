@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Smoke Test" >
+    <test name="EatTM main components">
+        <classes>
+            <class name="tests.HomePageTests"></class>
+            <class name="tests.IntroToTestNGtests"></class>
+        </classes>
+    </test>
+
+</suite>
+
