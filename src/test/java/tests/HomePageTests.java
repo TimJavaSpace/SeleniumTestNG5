@@ -13,7 +13,8 @@ public class HomePageTests {
 
     @Test
     public void ehomePageTest2(){
-        System.out.println("homePageTest2");
+        System.out.println("homeTest2");
+        System.out.println("test 2 change in main");
         Assert.assertEquals(5,(2+3));
     }
 
