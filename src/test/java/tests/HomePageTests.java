@@ -7,7 +7,7 @@ public class HomePageTests {
 
     @Test
     public void homePageTest1(){
-        System.out.println("homePageTest1 change in test oneee");
+        System.out.println("homePageTest1 change in test in main rep");
         Assert.assertEquals(5,(2+3));
     }
 
